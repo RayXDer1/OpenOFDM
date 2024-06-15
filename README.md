@@ -8,7 +8,7 @@
 - `DEEP_LEARN1`：基于时域OFDM信号降噪的深度学习方法
 - `DEEP_LEARN2`：基于频域OFDM信道估计值CSI降噪的深度学习方法
 
-## 函数列表
+## 主函数列表
 - `main.m`：OFDM基带物理层主程序
 - `train_test.m`：神经网络训练函数
 - `main_dl_time_test1`：OFDM基带物理层深度学习方法DEEP_LEARN1的主程序
