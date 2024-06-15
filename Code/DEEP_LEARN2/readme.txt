@@ -1,0 +1,5 @@
+LSCNN：基于卷积神经网络的频域降噪方法
+dl_lscnn_data_collect.m：神经网络数据采集函数
+Train_LSCNN_V1.m：LSCNN神经网络训练函数
+Train_LS_RESCNN_V1.m：LS_RESCNN(残差CNN)神经网络训练函数
+main_dl_time_test2：基于卷积神经网络的频域信道估计降噪方法的主程序
