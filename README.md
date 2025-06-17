@@ -7,6 +7,8 @@
 - `OFDM_RX`：OFDM接收基带子程序
 - `DEEP_LEARN1`：基于时域OFDM信号降噪的深度学习方法
 - `DEEP_LEARN2`：基于频域OFDM信道估计值CSI降噪的深度学习方法
+- `PMF-FFT`：PMF-FFT同步方法
+- `DEEP_LEARN3`：高速移动场景下基于频域OFDM信号降噪的深度学习方法
 
 ## 主函数列表
 - `main.m`：OFDM基带物理层主程序
