@@ -18,6 +18,6 @@
 
 ## 开源项目信息
 - **单位**：西安电子科技大学SCL实验室
-- **开源人员**：Yang Qinghai、Ran Jing、Le Chi
+- **开源人员**：Yang Qinghai、Ran Jing、Le Chi、Li Youbai、Chen Jingcheng
 - **实验环境**：Windows 11 64bit、NVIDIA GeForce RTX 3050 Laptop GPU
 - **仿真平台及所需工具**： MATLAB R2023b、DeepLearning Tool Box
