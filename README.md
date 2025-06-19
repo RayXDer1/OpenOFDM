@@ -15,6 +15,7 @@
 - `train_test.m`：神经网络训练函数
 - `main_dl_time_test1`：OFDM基带物理层深度学习方法DEEP_LEARN1的主程序
 - `main_dl_time_test2`：OFDM基带物理层深度学习方法DEEP_LEARN2的主程序
+- `main_highspeed.m`：高速移动OFDM基带物理层主程序
 
 ## 开源项目信息
 - **单位**：西安电子科技大学SCL实验室
